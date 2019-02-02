@@ -1,0 +1,13 @@
+
+Funda:
+Is beetje wazig hoe je uberhaupt aan een api key moet komen
+http://docs.funda.nl/api/products/
+
+Huizenzoeker.nl
+Staan zo te zien wat vriendelijker tegenover het gebruik van hun gegevens.
+http://www.huizenzoeker.nl/api/
+
+https://www.huizenzoeker.nl/woningmarkt/noord-holland/
+
+
+https://www.funda.nl/koop/in-onderhandeling/amsterdam/
